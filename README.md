@@ -7,7 +7,7 @@ The Open Guide to Amazon Web Services
 
 [Credits](AUTHORS.md) ∙ [Contributing guidelines](CONTRIBUTING.md)
 
-Table of Contents
+Table of Contents!
 -----------------
 
 **Purpose**
